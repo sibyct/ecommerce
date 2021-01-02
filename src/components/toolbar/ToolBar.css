@@ -1,0 +1,15 @@
+.Toolbar{
+    height: 100px;
+    background-color: #885A89;
+    padding: 5px;
+}
+.LogoSection{
+    width: 25%;
+}
+.NavSection{
+    width: 50%;
+}
+
+.SignInSection{
+    width: 25%;
+}

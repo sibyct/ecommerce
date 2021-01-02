@@ -1,0 +1,36 @@
+html,body,#root{
+  width: 100%;
+  height: 100%;
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.RowLayout{
+  display: flex;
+  flex-flow: row;;
+}
+.ColumnLayout{
+  display: flex;
+  flex-flow: column;
+}
+
+.FullSize{
+  width: 100%;
+  height: 100%;
+}
+.AlignHorizondel{
+  display: flex;
+  justify-content: center;
+}
+.AlignVertical{
+  display: flex;
+  align-items: center;
+}
+.AlignHorizondelVertical{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

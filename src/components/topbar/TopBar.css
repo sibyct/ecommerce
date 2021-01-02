@@ -1,0 +1,28 @@
+.TopBar{
+    background-color:rgb(137,129,149);
+    height: 20px;
+    position: relative;
+}
+
+.EmailContainer{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.EmailText{
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 5px;
+}
+.PhoneContactContainer{
+    margin-left: 50px;
+    padding-bottom: 10px;
+}
+.PhoneNumber{
+    color: white;
+}
+
